@@ -1,4 +1,4 @@
-# Nisarg's Kitchen - OpenAI ChatKit Production Demo
+# Suruchi's Kitchen - OpenAI ChatKit Production Demo
 
 A complete production-ready restaurant website showcasing OpenAI Agent Builder integration with ChatKit for enhanced customer experience.
 
